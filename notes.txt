@@ -1,0 +1,21 @@
+Sections
+
+Header
+	-Circle photo
+	-blurb
+
+Developer
+	-align left
+	-education
+	-software
+
+Dancer
+	-align right
+	-affiliations
+	-link to playlist
+
+Projects
+	-Tekstyles
+	-Summit
+	-South Bound
+Links
